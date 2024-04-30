@@ -14,6 +14,7 @@ This type of business model revolves around the concept of renting out assets, s
 
 Our[ booking rental script](https://migrateshop.com/rental-booking-script/) offers a comprehensive software solution to address the common challenges faced by rental businesses and significantly improve operational efficiency. 
 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“rentalbookingscript.png" src="https://github.com/migrateshop/rental-booking-script/blob/main/images/rental-booking-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 * **Streamlined Booking Process:** 
 
 A rental booking script provides a user-friendly interface for customers to browse rental options, check availability in real time and make bookings instantly. This eliminates the need for manual booking processes; reducing errors and saving time for both customers can rental business staff.
@@ -41,6 +42,9 @@ Here we mentioned the key features of our rental booking script, which are,
 * **Mobile Responsive Design:** A responsive design that works well on various devices, including Smartphone’s and tablets.
 * **SEO Friendly:** Our script was optimized for search engines to improve visibility and attract more users.
 * **Analytics and Reporting:** Provides insights into user activity, bookings, revenue, and other key metrics to help property owners enhance their properties.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“rentalbookingscript.png" src="https://github.com/migrateshop/rental-booking-script/blob/main/images/rental-booking-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ### Conclusion
 In conclusion, you may take your rental business to new heights of success by putting into practice a strong[ rental booking script](https://migrateshop.com/rental-booking-script/). This efficient method allows you to enhance productivity, boost profitability, and get a competitive edge in the always-changing rental market by optimizing operations, improving client experiences, and offering insightful data. 
 
