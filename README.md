@@ -15,6 +15,7 @@ This type of business model revolves around the concept of renting out assets, s
 Our[ booking rental script](https://migrateshop.com/rental-booking-script/) offers a comprehensive software solution to address the common challenges faced by rental businesses and significantly improve operational efficiency. 
 
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“rentalbookingscript.png" src="https://github.com/migrateshop/rental-booking-script/blob/main/images/rental-booking-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 * **Streamlined Booking Process:** 
 
 A rental booking script provides a user-friendly interface for customers to browse rental options, check availability in real time and make bookings instantly. This eliminates the need for manual booking processes; reducing errors and saving time for both customers can rental business staff.
