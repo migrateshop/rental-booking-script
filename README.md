@@ -51,6 +51,8 @@ In conclusion, you may take your rental business to new heights of success by pu
 
 A rental booking script becomes an invaluable partner on your path to expansion and success because of its intuitive interface, smooth interaction with well-known platforms, and extensive capabilities catered to your particular business requirements Leverage technology to the fullest extent possible to realize the potential of your rental company and steer it in the direction of great customer service, long-term success, and outstanding service.
 
+Our live Demo of rental booking script - https://migrateshop.com/rental-booking-script/
+
 **​​Contact us,**
 
 Call: +91- 8300505021
